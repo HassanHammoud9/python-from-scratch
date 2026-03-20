@@ -87,7 +87,7 @@ Supplementary reference files for common sticking points:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/python-from-scratch.git
+git clone https://github.com/HassanHammoud9/python-from-scratch.git
 cd python-from-scratch
 
 # Start with step 1
